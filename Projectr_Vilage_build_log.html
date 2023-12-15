@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>Projectr_Vilage build log</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+<body>
+<tt>
+Build started on: <u>08-12-2023 at 19:37.26</u><br />
+Build ended on: <u>08-12-2023 at 19:37.33</u><p />
+<b>-------------- Build: Debug in Projectr_Vilage (compiler: GNU GCC Compiler)---------------</b><br />
+g++.exe -Wall -fexceptions  -g     -c D:\инженерка\Vilage-main\main.cpp -o obj\Debug\main.o<br />
+D:\инженерка\Vilage-main\main.cpp: In function 'int get_w(std::string)':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:11:6: warning: no previous declaration for 'int get_w(std::string)' [-Wmissing-declarations]</font><br />
+ int  get_w(string adress)<br />
+      ^<br />
+D:\инженерка\Vilage-main\main.cpp: In function 'int get_h(std::string)':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:20:5: warning: no previous declaration for 'int get_h(std::string)' [-Wmissing-declarations]</font><br />
+ int get_h(string adress)<br />
+     ^<br />
+D:\инженерка\Vilage-main\main.cpp: In function 'int readFromDir(std::string, Pictures*, int)':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:29:5: warning: no previous declaration for 'int readFromDir(std::string, Pictures*, int)' [-Wmissing-declarations]</font><br />
+ int readFromDir(string adress,Pictures menupic[], int cont_pic)<br />
+     ^<br />
+D:\инженерка\Vilage-main\main.cpp: In function 'std::string runFileDiolog(bool)':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:62:8: warning: no previous declaration for 'std::string runFileDiolog(bool)' [-Wmissing-declarations]</font><br />
+ string runFileDiolog (bool isSave)<br />
+        ^<br />
+D:\инженерка\Vilage-main\main.cpp: In function 'bool SaveBMPFile(char*, HBITMAP, HDC, int, int)':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:106:6: warning: no previous declaration for 'bool SaveBMPFile(char*, HBITMAP, HDC, int, int)' [-Wmissing-declarations]</font><br />
+ bool SaveBMPFile(char *filename, HBITMAP bitmap, HDC bitmapDC, int width, int height)<br />
+      ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:108:10: warning: unused variable 'Success' [-Wunused-variable]</font><br />
+     bool Success=0;<br />
+          ^<br />
+D:\инженерка\Vilage-main\main.cpp: At global scope:<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:106:6: warning: unused parameter 'bitmap' [-Wunused-parameter]</font><br />
+ bool SaveBMPFile(char *filename, HBITMAP bitmap, HDC bitmapDC, int width, int height)<br />
+      ^<br />
+D:\инженерка\Vilage-main\main.cpp: In function 'bool ScreenCapture(int, int, int, int, char*, HWND)':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:187:6: warning: no previous declaration for 'bool ScreenCapture(int, int, int, int, char*, HWND)' [-Wmissing-declarations]</font><br />
+ bool ScreenCapture(int x, int y, int width, int height, char *filename, HWND hwnd)<br />
+      ^<br />
+In file included from D:\инженерка\Vilage-main\main.cpp:6:0:<br />
+D:\инженерка\Vilage-main\button.cpp: In constructor 'Button::Button()':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\button.cpp:4:8: warning: 'Button::x' should be initialized in the member initialization list [-Weffc++]</font><br />
+ struct Button<br />
+        ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\button.cpp:4:8: warning: 'Button::y' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\button.cpp:4:8: warning: 'Button::name' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\button.cpp:4:8: warning: 'Button::category' should be initialized in the member initialization list [-Weffc++]</font><br />
+D:\инженерка\Vilage-main\main.cpp: In function 'int main()':<br />
+D:\инженерка\Vilage-main\main.cpp:244:24: note: synthesized method 'Button::Button()' first required here <br />
+     Button btn[cont_btn];<br />
+                        ^<br />
+In file included from D:\инженерка\Vilage-main\main.cpp:7:0:<br />
+D:\инженерка\Vilage-main\pictures.cpp: In constructor 'Pictures::Pictures()':<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::x' should be initialized in the member initialization list [-Weffc++]</font><br />
+ struct Pictures<br />
+        ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::y' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::adress' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::pic' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::w_scr' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::h_scr' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::w' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::h' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::visible' should be initialized in the member initialization list [-Weffc++]</font><br />
+<font color="#0000ff">D:\инженерка\Vilage-main\pictures.cpp:4:8: warning: 'Pictures::category' should be initialized in the member initialization list [-Weffc++]</font><br />
+D:\инженерка\Vilage-main\main.cpp: In function 'int main()':<br />
+D:\инженерка\Vilage-main\main.cpp:260:26: note: synthesized method 'Pictures::Pictures()' first required here <br />
+      Pictures menupic[100];<br />
+                          ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:444:56: warning: conversion to 'int' from 'double' may alter its value [-Wconversion]</font><br />
+             centpic[vybor].w_scr =centpic[vybor].w_scr * 1.1;<br />
+                                                        ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:445:56: warning: conversion to 'int' from 'double' may alter its value [-Wconversion]</font><br />
+             centpic[vybor].h_scr =centpic[vybor].h_scr * 1.1;<br />
+                                                        ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:449:56: warning: conversion to 'int' from 'double' may alter its value [-Wconversion]</font><br />
+             centpic[vybor].w_scr =centpic[vybor].w_scr * 0.9;<br />
+                                                        ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:450:56: warning: conversion to 'int' from 'double' may alter its value [-Wconversion]</font><br />
+             centpic[vybor].h_scr =centpic[vybor].h_scr * 0.9;<br />
+                                                        ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:458:47: warning: conversion to 'int' from 'double' may alter its value [-Wconversion]</font><br />
+                 centpic[vybor].x = txMouseX() - centpic[vybor].w_scr/2;<br />
+                                               ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:459:47: warning: conversion to 'int' from 'double' may alter its value [-Wconversion]</font><br />
+                 centpic[vybor].y = txMouseY() - centpic[vybor].h_scr/2;<br />
+                                               ^<br />
+<font color="#0000ff">D:\инженерка\Vilage-main\main.cpp:577:62: warning: deprecated conversion from string constant to 'char*' [-Wwrite-strings]</font><br />
+         ScreenCapture(250, 100, 700, 600, "1.bmp", txWindow());<br />
+                                                              ^<br />
+g++.exe  -o bin\Debug\Projectr_Vilage.exe obj\Debug\button.o obj\Debug\main.o obj\Debug\pictures.o     -mwindows<br />
+Output size is 3,11 MB<br />
+<font color="#0000ff">Process terminated with status 0 (0 minutes, 7 seconds)</font><br />
+<font color="#0000ff">0 errors, 29 warnings (0 minutes, 7 seconds)</font><br />
+</tt>
+</body>
+</html>

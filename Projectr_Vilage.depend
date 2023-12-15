@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1697470802 source:d:\хижов максим\projectr_vilage\button.cpp
+	"TXLib.h"
+
+1697814153 source:d:\хижов максим\projectr_vilage\main.cpp
+	"TXLib.h"
+	"button.cpp"
+	"pictures.cpp"
+
+1697470802 d:\хижов максим\projectr_vilage\button.cpp
+	"TXLib.h"
+
+1697470708 d:\хижов максим\projectr_vilage\pictures.cpp
+	"TXLib.h"
+
+1697470708 source:d:\хижов максим\projectr_vilage\pictures.cpp
+	"TXLib.h"
+
+1701705850 source:d:\инженерка\vilage-main\button.cpp
+	"TXLib.h"
+
+1698076310 source:d:\инженерка\vilage-main\main.cpp
+	"TXLib.h"
+	"button.cpp"
+	"pictures.cpp"
+
+1698076672 d:\инженерка\vilage-main\button.cpp
+	"TXLib.h"
+
+1697817784 d:\инженерка\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1701705850 source:d:\инженерка\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1698938028 source:d:\хижов максим\vilage-main\vilage-main\button.cpp
+	"TXLib.h"
+
+1698938028 source:d:\хижов максим\vilage-main\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1699882664 source:d:\инженерка\vilage-main Ч копи€\vilage-main\button.cpp
+	"TXLib.h"
+
+1699882664 source:d:\инженерка\vilage-main Ч копи€\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1699887027 source:d:\инженерка\vilage-main Ч копи€\vilage-main\main.cpp
+	"TXLib.h"
+	<fstream>
+	<stdio.h>
+	<dirent.h>
+	"button.cpp"
+	"pictures.cpp"
+
+1699882664 d:\инженерка\vilage-main Ч копи€\vilage-main\button.cpp
+	"TXLib.h"
+
+1699882664 d:\инженерка\vilage-main Ч копи€\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1700485807 source:d:\инженерка\vilage_minecraft-main\button.cpp
+	"TXLib.h"
+
+1700485807 source:d:\инженерка\vilage_minecraft-main\pictures.cpp
+	"TXLib.h"
+
+1700830817 source:d:\инженерка\vilage_minecraft-main\main.cpp
+	"TXLib.h"
+	<fstream>
+	<stdio.h>
+	<dirent.h>
+	"button.cpp"
+	"pictures.cpp"
+
+1700485807 d:\инженерка\vilage_minecraft-main\button.cpp
+	"TXLib.h"
+
+1700485807 d:\инженерка\vilage_minecraft-main\pictures.cpp
+	"TXLib.h"
+
+1702050232 source:d:\хижов максим\vilage-main\button.cpp
+	"TXLib.h"
+
+1702050232 source:d:\хижов максим\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1702651274 source:d:\хижов максим\vilage-main\main.cpp
+	"TXLib.h"
+	<fstream>
+	<stdio.h>
+	<dirent.h>
+	"button.cpp"
+	"pictures.cpp"
+
+1702050232 d:\хижов максим\vilage-main\button.cpp
+	"TXLib.h"
+
+1702050232 d:\хижов максим\vilage-main\pictures.cpp
+	"TXLib.h"
+
+1701100391 source:d:\инженерка\vilage_minecraft-main\vilage-main\button.cpp
+	"TXLib.h"
+
+1701100391 source:d:\инженерка\vilage_minecraft-main\vilage-main\pictures.cpp
+	"TXLib.h"
+

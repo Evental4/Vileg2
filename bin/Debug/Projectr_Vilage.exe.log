@@ -1,0 +1,280 @@
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe,
+
+ВНЕЗАПНО: Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x75BD9618. Попытка прочесть данные по адресу 0x00000064 в модуле C:\Windows\System32\msvcrt.dll. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x005B5A3C (32-bit), Flags: Cmdre0, Thread: 0x1F20 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codeblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Oct 16 2023 18:50:26, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Oct 23 2023 18:58:49
+
+Run file:	D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe
+Directory:	D:\инженерка\Vilage-main
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x75BD9618. Попытка прочесть данные по адресу 0x00000064 в модуле C:\Windows\System32\msvcrt.dll. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x005B5A3C (32-bit), Flags: Cmdre0, Thread: 0x1F20 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codeblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Oct 16 2023 18:50:26, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Oct 23 2023 18:58:49
+
+Run file:	D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe
+Directory:	D:\инженерка\Vilage-main
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe,
+
+ВНЕЗАПНО: Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x75BD9618. Попытка прочесть данные по адресу 0x00000064 в модуле C:\Windows\System32\msvcrt.dll. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x005B5A3C (32-bit), Flags: Cmdre0, Thread: 0x1A28 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codeblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Oct 16 2023 18:50:26, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Oct 23 2023 18:59:30
+
+Run file:	D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe
+Directory:	D:\инженерка\Vilage-main
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x75BD9618. Попытка прочесть данные по адресу 0x00000064 в модуле C:\Windows\System32\msvcrt.dll. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x005B5A3C (32-bit), Flags: Cmdre0, Thread: 0x1A28 (Main), GetLastError(): 6 (Неверный дескриптор). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codeblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Oct 16 2023 18:50:26, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Oct 23 2023 18:59:31
+
+Run file:	D:\инженерка\Vilage-main\bin\Debug\Projectr_Vilage.exe
+Directory:	D:\инженерка\Vilage-main
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe,
+
+ВНЕЗАПНО: Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x0047B7CC в функции _M_is_leaked() в файле d:/codeblocks/codeblocks/mingw/include/c++/4.8.1/debug/functions.h на строке 45. Попытка прочесть данные по адресу 0x0000015A в модуле D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x005B6A3C (32-bit), Flags: Cmdre0, Thread: 0x828 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0047B7CC in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: _M_is_leaked() at d:/codeblocks/codeblocks/mingw/include/c++/4.8.1/debug/functions.h (45):
+
+     43:   // An arbitrary iterator pointer is not singular.
+     44:   inline bool
+=>   45:   __check_singular_aux(const void*) { return false; }
+     46: 
+     47:   // We may have an iterator that derives from _Safe_iterator_base but isn't
+
+# 1 0x004AA70B in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: swap() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (299):
+
+    297: 
+    298: return 0;
+=>  299: }
+    300: 
+
+# 2 0x004B1A49 in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: operator=() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (299):
+
+    297: 
+    298: return 0;
+=>  299: }
+    300: 
+
+# 3 0x00475FA7 in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: operator=() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (299):
+
+    297: 
+    298: return 0;
+=>  299: }
+    300: 
+
+# 4 0x00439D2C in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: main() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (213):
+
+    211:                                     menupic[npic].h,
+    212:                                     menupic[npic].visible,
+=>  213:                                     menupic[npic].category};
+    214:             n_sent_pic ++;
+    215:         }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	d:\codeblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Oct 27 2023 19:48:36, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Nov 13 2023 19:06:57
+
+Run file:	D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe
+Directory:	D:\инженерка\Vilage-main — копия\Vilage-main
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x0047B7CC в функции _M_is_leaked() в файле d:/codeblocks/codeblocks/mingw/include/c++/4.8.1/debug/functions.h на строке 45. Попытка прочесть данные по адресу 0x0000015A в модуле D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe. Спасибо _txVectoredExceptionHandler(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x005B6A3C (32-bit), Flags: Cmdre0, Thread: 0x828 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x0047B7CC in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: _M_is_leaked() at d:/codeblocks/codeblocks/mingw/include/c++/4.8.1/debug/functions.h (45):
+
+     43:   // An arbitrary iterator pointer is not singular.
+     44:   inline bool
+=>   45:   __check_singular_aux(const void*) { return false; }
+     46: 
+     47:   // We may have an iterator that derives from _Safe_iterator_base but isn't
+
+# 1 0x004AA70B in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: swap() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (299):
+
+    297: 
+    298: return 0;
+=>  299: }
+    300: 
+
+# 2 0x004B1A49 in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: operator=() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (299):
+
+    297: 
+    298: return 0;
+=>  299: }
+    300: 
+
+# 3 0x00475FA7 in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: operator=() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (299):
+
+    297: 
+    298: return 0;
+=>  299: }
+    300: 
+
+# 4 0x00439D2C in D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe: main() at D:/инженерка/Vilage-main — копия/Vilage-main/main.cpp (213):
+
+    211:                                     menupic[npic].h,
+    212:                                     menupic[npic].visible,
+=>  213:                                     menupic[npic].category};
+    214:             n_sent_pic ++;
+    215:         }
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	d:\codeblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Oct 27 2023 19:48:36, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Nov 13 2023 19:06:57
+
+Run file:	D:\инженерка\Vilage-main — копия\Vilage-main\bin\Debug\Projectr_Vilage.exe
+Directory:	D:\инженерка\Vilage-main — копия\Vilage-main
+
+--------------------------------------------------
